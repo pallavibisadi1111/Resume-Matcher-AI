@@ -1,6 +1,4 @@
-# SkillMatch AI
 
-![SkillMatch AI](SKILLMATCHERAI.png)
 
 SkillMatch AI turns a resume into a practical career signal. Upload a resume, choose an optional location, and get ranked role recommendations with fit scores, missing skills, and direct job-search links.
 
